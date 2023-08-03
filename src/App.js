@@ -2,7 +2,7 @@ import React from "react";
 import ReactQuiz from "./reactQuiz/reactQuiz";
 // import Travel from "./travels/Travels";
 // import MyStep from "./Steps/Steps";
-// import Split from "./shareMeal/split";
+import Split from "./shareMeal/split";
 // import Home from "./usePopcorn/Home";
 // import StarRating from "./usePopcorn/StarRating";
 // import ReactWorks from "./howReactWorks/home";
@@ -22,9 +22,9 @@ function App() {
       {/* <StarRating/> */}
       {/* <Travel /> */}
       {/* <MyStep /> */}
-      {/* <Split /> */}
+      <Split />
       {/* <Home /> */}
-                          <ReactQuiz />                                                                                                    
+                          {/* <ReactQuiz />                                                                                                     */}
       {/* <ReactWorks /> */}
 
 
